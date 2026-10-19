@@ -1,0 +1,10 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+ <queries><package android:name="com.whicons.iconpack"/></queries>
+ <uses-permission android:name="android.permission.INTERNET"/>
+ <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+ <application android:theme="@style/AppTheme" android:icon="@mipmap/ic_launcher" android:label="Currency Converter" android:allowBackup="false" android:supportsRtl="true" android:usesCleartextTraffic="false">
+  <activity android:name=".MainActivity" android:exported="true" android:windowSoftInputMode="adjustResize"/>
+  <activity-alias android:name="${applicationId}.NormalLauncher" android:targetActivity="dev.kiankonrad.currencycalculator.MainActivity" android:enabled="true" android:exported="true" android:icon="@mipmap/ic_launcher" android:label="Currency Converter"><intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter></activity-alias>
+  <activity-alias android:name="${applicationId}.WhiconsLauncher" android:targetActivity="dev.kiankonrad.currencycalculator.MainActivity" android:enabled="false" android:exported="true" android:icon="@drawable/ic_converter_whicons" android:label="Currency Converter"><intent-filter><action android:name="android.intent.action.MAIN"/><category android:name="android.intent.category.LAUNCHER"/></intent-filter></activity-alias>
+ </application>
+</manifest>

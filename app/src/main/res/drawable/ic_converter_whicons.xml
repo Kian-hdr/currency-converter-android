@@ -1,0 +1,13 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+    <!-- Same converter mark as the color icon, cropped to a balanced flat-icon safe area. -->
+    <group android:translateX="-22" android:translateY="-22">
+        <path android:fillColor="#FFFFFFFF"
+            android:pathData="M30,37L64,37L64,28L80,44L64,60L64,51L30,51Z" />
+        <path android:fillColor="#FFFFFFFF"
+            android:pathData="M78,57L44,57L44,48L28,64L44,80L44,71L78,71Z" />
+    </group>
+</vector>
