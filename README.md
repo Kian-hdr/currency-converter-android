@@ -1,16 +1,16 @@
-# Currency Converter
+<h1 align="center">Currency Converter</h1>
 
-A native Android currency converter and money calculator.
+<p align="center">A native Android currency converter and money calculator.</p>
 
-## Download
+<h2 align="center">Download</h2>
 
-<p>
+<p align="center">
 <a href="https://github.com/Kian-hdr/currency-converter-android/releases/download/v1.0.1/Currency_Converter_v1.0.1.apk"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download for Android"></a>
 </p>
 
-[APK · v1.0.1](https://github.com/Kian-hdr/currency-converter-android/releases/download/v1.0.1/Currency_Converter_v1.0.1.apk)
+<p align="center"><a href="https://github.com/Kian-hdr/currency-converter-android/releases/download/v1.0.1/Currency_Converter_v1.0.1.apk">APK · v1.0.1</a></p>
 
-[Release notes](https://github.com/Kian-hdr/currency-converter-android/releases/tag/v1.0.1)
+<p align="center"><a href="https://github.com/Kian-hdr/currency-converter-android/releases/tag/v1.0.1">Release notes</a></p>
 
 A native Android currency converter with a pitch-black interface, blue accents, round keys, and money calculations. Created by **Kian Konrad Tajbakhsh**.
 
