@@ -2,7 +2,13 @@
 
 A native Android currency converter with a pitch-black interface, blue accents, round keys, and money calculations. Created by **Kian Konrad Tajbakhsh**.
 
-[Download the APK](https://github.com/Kian-hdr/currency-converter-android/releases/latest) · [Build from source](docs/BUILD.md) · [Privacy](PRIVACY.md) · [MIT license](LICENSE)
+[Build from source](docs/BUILD.md) · [Privacy](PRIVACY.md) · [MIT license](LICENSE)
+
+<!-- direct-downloads -->
+[![Download Android APK](https://img.shields.io/badge/Download%20Android%20APK-24292F?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Kian-hdr/currency-converter-android/releases/download/v1.0.1/Currency_Converter_v1.0.1.apk)
+
+[Download Android APK](https://github.com/Kian-hdr/currency-converter-android/releases/download/v1.0.1/Currency_Converter_v1.0.1.apk) · [Release v1.0.1](https://github.com/Kian-hdr/currency-converter-android/releases/tag/v1.0.1)
+<!-- /direct-downloads -->
 
 ## What it does
 
