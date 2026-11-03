@@ -1,6 +1,6 @@
 # Currency Converter
 
-A native Android currency converter with a pitch-black interface, blue accents, round keys, and money calculations. Created by **Kian Konrad Tajbakhsh**.
+A native Android currency converter and money calculator.
 
 ## Download
 
@@ -11,6 +11,8 @@ A native Android currency converter with a pitch-black interface, blue accents, 
 [APK · v1.0.1](https://github.com/Kian-hdr/currency-converter-android/releases/download/v1.0.1/Currency_Converter_v1.0.1.apk)
 
 [Release notes](https://github.com/Kian-hdr/currency-converter-android/releases/tag/v1.0.1)
+
+A native Android currency converter with a pitch-black interface, blue accents, round keys, and money calculations. Created by **Kian Konrad Tajbakhsh**.
 
 [Build from source](docs/BUILD.md) · [Privacy](PRIVACY.md) · [MIT license](LICENSE)
 
