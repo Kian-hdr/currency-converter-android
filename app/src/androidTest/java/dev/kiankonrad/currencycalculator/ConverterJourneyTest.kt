@@ -61,7 +61,7 @@ class ConverterJourneyTest {
    compose.onNodeWithText("AED ▾").assertIsDisplayed()
    compose.onNodeWithContentDescription("Delete last character").assertIsDisplayed()
    compose.onNodeWithContentDescription("About Currency Converter and exchange rates").performClick()
-   compose.onNodeWithText("Created by Kian Konrad Tajbakhsh").assertIsDisplayed()
+   compose.onNodeWithText("Created by Kian Konrad").assertIsDisplayed()
    compose.onNodeWithText("Close").performClick()
    val selection=LauncherIconManager.sync(context)
    val expected=if(LauncherIconManager.isWhiconsInstalled(context.packageManager)) LauncherIconManager.Mode.WHICONS else LauncherIconManager.Mode.NORMAL

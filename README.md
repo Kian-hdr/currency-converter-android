@@ -12,7 +12,7 @@
 
 <p align="center"><a href="https://github.com/Kian-hdr/currency-converter-android/releases/tag/v1.0.1">Release notes</a></p>
 
-A native Android currency converter with a pitch-black interface, blue accents, round keys, and money calculations. Created by **Kian Konrad Tajbakhsh**.
+A native Android currency converter with a pitch-black interface, blue accents, round keys, and money calculations. Created by **Kian Konrad**.
 
 [Build from source](docs/BUILD.md) · [Privacy](PRIVACY.md) · [MIT license](LICENSE)
 

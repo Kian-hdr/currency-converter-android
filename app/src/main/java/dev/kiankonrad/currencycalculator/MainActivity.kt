@@ -206,7 +206,7 @@ fun ConverterApp() {
    }
   },confirmButton={TextButton(onClick={showHistory=false}){Text("Close")}},dismissButton={if(state.history.isNotEmpty()) TextButton(onClick={state.clearHistory()}){Text("Clear history")}})
   if(showInfo) AlertDialog(onDismissRequest={showInfo=false},title={Text("Currency Converter")},text={Column(Modifier.verticalScroll(rememberScrollState())) {
-   Text("Created by Kian Konrad Tajbakhsh",fontWeight=FontWeight.Medium)
+   Text("Created by Kian Konrad",fontWeight=FontWeight.Medium)
    Spacer(Modifier.height(12.dp))
    Text("Everyday money math with current currency conversions.")
    Spacer(Modifier.height(12.dp))
