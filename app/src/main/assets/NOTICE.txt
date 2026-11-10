@@ -1,6 +1,6 @@
 # Third-party notices
 
-The original Currency Converter application code and original converter icon are copyright 2026 Kian Konrad Tajbakhsh and licensed under MIT.
+The original Currency Converter application code and original converter icon are copyright 2026 Kian Konrad and licensed under MIT.
 
 The UAE dirham symbol is the official Central Bank of the UAE currency symbol. Its geometry was extracted from the bank’s published Dirham Currency Symbol Guideline, version 1.0. Attribution and exact provenance are in Assets/Dirham/. The MIT grant for the application does not replace the rights and usage guidance for this official symbol. Source: https://www.centralbank.ae/media/w3ansspi/dirham_currency_symbol_guidelines_en_21-may.pdf
 
