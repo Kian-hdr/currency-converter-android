@@ -1,8 +1,11 @@
-<h1 align="center">Currency Converter</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="docs/assets/README_Title_Dark.svg">
+    <img src="docs/assets/README_Title_Light.svg" width="344" alt="Currency Converter">
+  </picture>
+</p>
 
 <p align="center">A native Android currency converter and money calculator.</p>
-
-<h2 align="center">Download</h2>
 
 <p align="center">
 <a href="https://github.com/Kian-hdr/currency-converter-android/releases/download/v1.0.1/Currency_Converter_v1.0.1.apk"><img src="docs/assets/downloads/download_1.svg" width="240" height="48" alt="Download for Android"></a>
